@@ -20,6 +20,7 @@ We look at what you’re doing, how, and what you want to achieve. And then we t
 That might mean:
 
 - [reviewing your vision or strategy](/services/reviewing-your-vision-or-strategy/)
+- [storytelling and narrative strategy](/services/storytelling-and-narrative-strategy)
 - [setting up your product foundations](/services/setting-up-your-product-foundations/)
 - [helping you develop your product roadmap](/services/designing-your-value-architecture/)
 - [getting a new thing off the ground (0 → 1)](/services/discovery-and-prototyping/)

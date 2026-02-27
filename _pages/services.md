@@ -15,6 +15,10 @@ We’re mostly hired to help teams get off the ground, grow or scale. You bring 
 
 A captivating vision is essential for inspiring action. Strategies work best when they’re simple, clear and set boundaries. Learn more about how we [inspire and motivate teams to achieve success →](/services/reviewing-your-vision-or-strategy/)
 
+## Storytelling and narrative strategy
+
+Change is hard. Stories make the future easier to grasp. We’ll work with you to craft a compelling ‘why’ that embeds cultural change through [storytelling and narrative strategy →](/services/storytelling-and-narrative-strategy)
+
 ## Discovery and prototyping 
 
 Users’ needs. Your organisation’s goals. A solution that meets both. It’s the messy middle. We understand problems and explore solutions through [discovery and prototyping →](/services/discovery-and-prototyping/)
