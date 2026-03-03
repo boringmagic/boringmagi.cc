@@ -81,3 +81,7 @@ defaults:
       path: "tag"
     values:
       sitemap: false
+  - scope:
+      path: "project"
+    values:
+      sitemap: false
