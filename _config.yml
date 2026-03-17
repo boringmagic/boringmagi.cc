@@ -82,6 +82,6 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: "project"
+      path: "project/**"
     values:
       sitemap: false
