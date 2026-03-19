@@ -37,6 +37,13 @@ Look at our [services](/services/) for more detail.
 
 You might be from government, a local authority, the third sector, a large company or a startup. We’ve worked with organisations like yours before. 
 
+<div class="client-logos">
+  <img src="/assets/images/clients/govuk.svg" alt="GOV.UK" class="client-logo">
+  <img src="/assets/images/clients/highways-england.svg" alt="Highways England" class="client-logo">
+  <img src="/assets/images/clients/mhclg.svg" alt="Ministry of Housing, Communities &amp; Local Government" class="client-logo">
+  <img src="/assets/images/clients/sport-england.svg" alt="Sport England" class="client-logo">
+</div>
+
 Check our [case studies](/case-studies/) and a [portfolio](https://visitmy.website/work){:target="_blank"} of notable projects.
 
 ### Start a chat

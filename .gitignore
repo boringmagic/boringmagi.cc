@@ -7,3 +7,5 @@ tmp
 .git
 _site
 /project/
+vendor/
+.bundle/
