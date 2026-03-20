@@ -17,7 +17,7 @@ tags:
  - planning
 ---
 
-**From November 2024, I conceived and coordinated Extract – an AI product that turns decades of trapped planning documents into structured data – then led it through an alpha phase, testing and shaping it with local planning authorities. In June 2025, the Prime Minister launched Extract at London Tech Week and named it one of his AI Exemplars. Early results suggest a task that takes planning officers one to two hours could be completed in under fifteen minutes.**
+**From November 2024, we conceived and coordinated Extract – an AI product that turns decades of trapped planning documents into structured data – then led it through an alpha phase, testing and shaping it with local planning authorities. In June 2025, the Prime Minister launched Extract at London Tech Week and named it one of his AI Exemplars. Early results suggest a task that takes planning officers one to two hours could be completed in under fifteen minutes.**
 
 ## The problem
 
@@ -27,7 +27,7 @@ Across England, over 300 local planning authorities hold decades of planning dec
 
 The most time-intensive part is creating geospatial data. In one exercise, the Planning Data team found that [drawing the boundary shapes for a single conservation area manually took between one and two hours](https://github.com/digital-land/conservation-area-data/blob/main/README.md#:~:text=Time%20consuming%20process). That’s one document, from one council, for one planning constraint. Multiply it across thousands of documents and hundreds of councils and the scale of the problem becomes hard to ignore. [Similar work in the US](https://dho.stanford.edu/wp-content/uploads/Covenants.pdf?) – digitising restrictive property covenants – was estimated to cost $1.4 million and take 10 years by hand.
 
-The government’s housing mission, building 1.5 million homes this Parliament, depends on modern planning infrastructure. But you can’t build modern infrastructure on top of paper.
+The government’s housing mission, building 1.5 million homes this Parliament, depends on modern planning infrastructure. But you can’t build modern infrastructure on top of paper. The Digital Planning mission needed a way to accelerate the provision of open planning data to planning.data.gov.uk, ensuring nationwide data coverage sooner without placing a burden on overstretched local planning authorities.
 
 ## The approach
 
@@ -45,7 +45,7 @@ I worked with i.AI to design and set up an incubation: a focused, time-boxed R&D
 
 Together, we set specific, measurable success criteria – targets for textual accuracy, date extraction, shape accuracy, and geolocation precision – and agreed guardrails to keep the experiment responsible. The team worked from openly licensed planning documents, built a robust evaluation pipeline, and adopted an evaluation-driven development approach: every model and every line of code tested against measurable targets, iterating systematically rather than chasing a magic solution. You can read the [full brief and success criteria on GitHub](https://github.com/digital-land/digital-land/issues/360).
 
-Co-ordinating across two government departments with different rhythms, reporting lines, and cultures requires active stewardship. I was the connective tissue: liaising between MHCLG and i.AI, steering when things got stuck, and keeping the strategy coherent across both organisations. In UK government, that kind of cross-departmental co-ordination is harder than it sounds and matters more than it looks.
+Co-ordinating across two government departments with different rhythms, reporting lines, and cultures requires active stewardship. We provided connective tissue: liaising between MHCLG and i.AI, steering when things got stuck, and keeping the strategy coherent across both organisations. In UK government, that kind of cross-departmental co-ordination is harder than it sounds and matters more than it looks.
 
 ### What the incubation found
 
@@ -57,9 +57,9 @@ The efficiency gain was striking. A task taking a planning officer one to two ho
 
 ### The alpha phase
 
-With technical feasibility proven, I led the transition into alpha – where a working technical system gets tested with real users to understand what kind of product it should become.
+With technical feasibility proven, we led the transition into alpha – where a working technical system gets tested with real users to understand what kind of product it should become.
 
-I kicked off the alpha, set the guiding principles for the team, and co-ordinated work across MHCLG and i.AI as the product took shape. The team worked to a test-and-learn approach: building prototypes quickly, getting them in front of planning officers and GIS officers at local planning authorities, and using what we learned to change the design. I published [weeknotes throughout the alpha phase](https://digital-land.github.io/extract-alpha/weeknotes/) if you want to follow the work in detail, or check out the [design history](https://digital-land.github.io/extract-alpha/design-history/) for screenshots.
+I kicked off the alpha, set the guiding principles for the team, and co-ordinated work across MHCLG and i.AI as the product took shape. The team worked to a test-and-learn approach: building prototypes quickly, getting them in front of planning officers and GIS officers at local planning authorities, and using what we learned to change the design. We published [weeknotes throughout the alpha phase](https://digital-land.github.io/extract-alpha/weeknotes/) if you want to follow the work in detail, or check out the [design history](https://digital-land.github.io/extract-alpha/design-history/) for screenshots.
 
 The core principle was *velocity of learning, not velocity of delivery*. It’s an important distinction for a product at alpha stage. We needed to find out which of our assumptions were wrong before building anything expensive.
 
@@ -73,11 +73,11 @@ Research also surfaced an unexpected dimension of value. GIS officers at local a
 
 Not everything was straightforward. Users found the accuracy of the AI-generated boundary shapes to be a significant factor in their willingness to adopt the output, with many redrawing shapes themselves in the first prototype. That feedback directly shaped the next iteration – adding editing tools, improving the review interface, and exploring ways to produce cleaner polygon outputs.
 
-Part of why accuracy matters so much is that planning is a profession, not just a job. The Royal Town Planning Institute’s code of professional conduct requires members to base their advice on reliable evidence and present data clearly and without improper manipulation. That means explainability isn’t just a nice design goal for Extract – it’s a professional obligation for the people using it. A planning officer can’t simply accept an AI-generated boundary and publish it without being able to stand behind it. The ethical and regulatory landscape of the planning domain was a design constraint from the start, not an afterthought. I wrote more about this in [‘So, you want to build AI for professionals’](https://visitmy.website/2025/04/07/so-you-want-to-build-ai-for-professionals/).
+Part of why accuracy matters so much is that planning is a profession, not just a job. The Royal Town Planning Institute’s code of professional conduct requires members to base their advice on reliable evidence and present data clearly and without improper manipulation. That means explainability isn’t just a nice design goal for Extract – it’s a professional obligation for the people using it. A planning officer can’t simply accept an AI-generated boundary and publish it without being able to stand behind it. The ethical and regulatory landscape of the planning domain was a design constraint from the start, not an afterthought. We wrote more about this in [‘So, you want to build AI for professionals’](https://visitmy.website/2025/04/07/so-you-want-to-build-ai-for-professionals/).
 
 When the insights indicated we needed more time to learn, we extended the alpha rather than press on prematurely. Trust in the AI’s outputs is a major factor in real-world adoption, and in a domain where professionals are accountable for the data they publish, getting that right matters more than hitting an arbitrary deadline. 
 
-In February 2026, when my contract was nearing its end, I handed Extract over to another manager to steer the product development sustainably, providing strategic advice and input from the sidelines. The product team are planning for launch in spring 2026.
+In February 2026, when my contract was nearing its end, we handed Extract over to another manager to steer the product development sustainably, providing strategic advice and input from the sidelines. The product team are planning for launch in spring 2026.
 
 ## The impact
 
@@ -90,9 +90,10 @@ Extract is still in alpha, transitioning to beta soon, and the clearest measure 
 * Even on the first prototype, before editing tools were added, users completed the task in **under 10 minutes** – and some downloaded the data to refine further in their own tools
 * Georeferencing – automatically locating old map boundaries on a modern map – was identified as the most valued capability, with users describing it as the hardest and most time-consuming part of their current process. As one user put it: *"If you get it wrong with that, there’s a 95% chance of you getting it completely wrong when it comes to the spatial position and accuracy of the feature itself."*
 * Research with **8 users across 7 local planning authorities** found the core concept well understood and the proposition clearly valued
+* With wide adoption, Extract has the potential to massively accelerate the provision of open planning data to planning.data.gov.uk, a key growth enabler for the data platform
 * Related data-publishing work at Camden Council showed **60% fewer planning-related enquiries** after publishing clearer data, saving over 21 hours a month – an indication of the downstream value better planning data can unlock
 
-The roadmap I put together takes Extract through private and public beta phases, with a live service for local planning authorities planned for 2026. You can read more on [i.AI’s project page for Extract](https://ai.gov.uk/our-work/planning/#extract).
+The roadmap we put together takes Extract through private and public beta phases, with a live service for local planning authorities planned for 2026. You can read more on [i.AI’s project page for Extract](https://ai.gov.uk/our-work/planning/#extract).
 
 ## Want to do something similar?
 
