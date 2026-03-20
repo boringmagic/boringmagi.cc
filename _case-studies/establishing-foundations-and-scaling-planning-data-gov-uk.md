@@ -4,6 +4,7 @@ title: "Establishing foundations and scaling planning.data.gov.uk"
 date: 2026-03-19T14:25:22Z
 description: "How our strategic product leadership helped a government data platform grow and scale."
 image: /assets/images/IMG_4155.jpg
+collection: case-studies
 tags:
  - strategy
  - foundations
