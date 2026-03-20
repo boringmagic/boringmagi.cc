@@ -2,15 +2,16 @@
 layout: null
 ---
 [
-  {% for post in site.posts %}
+  {% assign feed_items = site.posts | concat: site["case-studies"] | sort: "date" | reverse %}
+  {% for item in feed_items %}
     {
 
-      "title"    : "{{ post.title | strip_html | escape }}",
-      "description" : "{{ post.description | escape }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "category" : "{{post.categories | join: ', '}}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "date"     : "{{ post.date }}"
+      "title"    : "{{ item.title | strip_html | escape }}",
+      "description" : "{{ item.description | escape }}",
+      "url"      : "{{ site.baseurl }}{{ item.url }}",
+      "category" : "{{item.categories | join: ', '}}",
+      "tags"     : "{{ item.tags | join: ', ' }}",
+      "date"     : "{{ item.date }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
