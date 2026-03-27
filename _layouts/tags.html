@@ -5,10 +5,21 @@ title: Tags
 
 <section class="posts">
 	<h1>{{ page.title }}</h1>
-{% assign tags = site.tags | sort %}
+{% assign tagged_docs = site.posts | concat: site.case-studies %}
+{% assign all_tags = "" | split: "" %}
+{% for doc in tagged_docs %}
+{% assign all_tags = all_tags | concat: doc.tags %}
+{% endfor %}
+{% assign tags = all_tags | uniq | sort %}
 <ul>
 {% for tag in tags %}
- <li><a href="/tag/{{ slug | first | slugify }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }}){% unless forloop.last %}, {% endunless %}</a></li>
+{% assign tag_count = 0 %}
+{% for doc in tagged_docs %}
+{% if doc.tags contains tag %}
+{% assign tag_count = tag_count | plus: 1 %}
+{% endif %}
+{% endfor %}
+ <li><a href="/tag/{{ tag | slugify }}/">{{ tag | replace:'-', ' ' }} ({{ tag_count }})</a></li>
 {% endfor %}
 </ul>
 

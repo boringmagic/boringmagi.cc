@@ -5,10 +5,15 @@ layout: default
 <section class="posts">
 <h1>Tag #{{page.tag}}</h1>
     <ul>
-      {% for post in site.posts %}
-      {% if post.tags contains page.tag %}
-      <li><a class="post" href="{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></li>
-      {% endif %}
+      {% for document in page.documents %}
+      <li>
+        <a class="post" href="{{ document.url }}">{{ document.title }}</a>
+        {% if document.date %}
+        <time datetime="{{ document.date | date_to_xmlschema }}">{{ document.date | date: "%d-%m-%Y" }}</time>
+        {% endif %}
+      </li>
+      {% else %}
+      <li>No content found for this tag yet.</li>
       {% endfor %}
     </ul>
 	
