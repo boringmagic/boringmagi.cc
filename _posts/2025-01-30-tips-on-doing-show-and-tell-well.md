@@ -27,29 +27,21 @@ A show & tell might also be called a [team review](https://www.gov.uk/service-ma
 ## How to run a great show & tell
 
 1. **Don’t make it up on the spot**  
-Spend time as a team working out what you want to say and who is going to share stories with the audience (1 or 2 people works best). 30 to 60 minutes of prep will pay off.
-
-2. **Set the scene**   
-Always introduce your project or epic. Who’s on the team? What are you working on? What problem are you solving? Who are your users? Why are you doing it? You don’t need to tell the full history, a 30-second overview is enough.
-
+   Spend time as a team working out what you want to say and who is going to share stories with the audience (1 or 2 people works best). 30 to 60 minutes of prep will pay off.
+2. **Set the scene**  
+   Always introduce your project or epic. Who’s on the team? What are you working on? What problem are you solving? Who are your users? Why are you doing it? You don’t need to tell the full history, a 30-second overview is enough.
 3. **Show the thing\!**  
-Scrappy diagrams, Mural boards, Post-it notes, screenshots, scribbles, photos, and clicking through prototypes bring things to life. Text and code is OK, but always aim to demonstrate something working – don’t just talk through a doc or some function.
-
+   Scrappy diagrams, Mural boards, Post-it notes, screenshots, scribbles, photos, and clicking through prototypes bring things to life. Text and code is OK, but always aim to demonstrate something working – don’t just talk through a doc or some function.
 4. **Talk about what you’ve learned**  
-Share which assumptions turned out to be incorrect, or what facts surprised you. Show clips from user research and usability testing. Highlight important analytics data or performance measures. Share both findings and insights. Be clear on the methodology and any confidence intervals, levels of confidence, risky assumptions, etc. 
-
-5. **Be clear**
-
-Don’t hide behind jargon. Make bold statements. Say what you actually think! This helps everyone concentrate on the main point, and it generates discussion.
-
+   Share which assumptions turned out to be incorrect, or what facts surprised you. Show clips from user research and usability testing. Highlight important analytics data or performance measures. Share both findings and insights. Be clear on the methodology and any confidence intervals, levels of confidence, risky assumptions, etc.
+5. **Be clear**  
+   Don’t hide behind jargon. Make bold statements. Say what you actually think! This helps everyone concentrate on the main point, and it generates discussion.
 6. **Always share unfinished thinking**  
-Forget about the polish and perfection. A show & tell is the perfect place to collect feedback, ideas and thoughts. It’s a complicated space. We’re all trying to figure it out! 
-
+   Forget about the polish and perfection. A show & tell is the perfect place to collect feedback, ideas and thoughts. It’s a complicated space. We’re all trying to figure it out!
 7. **Rehearse**  
-Take 10–15 minutes to rehearse your section with your team to work out whether you need to cut anything. If you’re struggling to edit, use a format like [What? So what? Now what?](https://visitmy.website/2023/04/18/formats-for-show-and-tells/#what-so-what-now-what) to keep things concise. If you take up more time than you’ve been given, it’ll eat into other people’s section meaning they have to rush (or not share at all) which isn’t fair.
-
+   Take 10–15 minutes to rehearse your section with your team to work out whether you need to cut anything. If you’re struggling to edit, use a format like [What? So what? Now what?](https://visitmy.website/2023/04/18/formats-for-show-and-tells/#what-so-what-now-what) to keep things concise. If you take up more time than you’ve been given, it’ll eat into other people’s section meaning they have to rush (or not share at all) which isn’t fair.
 8. **Leave time for questions**  
-The best show & tells have audience participation. Wherever possible, leave time for questions – either after each team or at the end. Encourage people to ask questions in the chat, on Slack, in docs, etc. 
+   The best show & tells have audience participation. Wherever possible, leave time for questions – either after each team or at the end. Encourage people to ask questions in the chat, on Slack, in docs, etc.
 
 If you do nothing else, follow tip number 3. 
 
@@ -58,10 +50,9 @@ You can read more tips on good show & tells from [Mark Dalgarno](https://markdal
 ## How to be a great show & tell audience member
 
 1. **Be present and listen**  
-There’s nothing worse than preparing for a show & tell only to realise that no one’s paying attention. Close Slack, close Teams, stop looking at email, and give your full attention to your team-mates.  
-
+   There’s nothing worse than preparing for a show & tell only to realise that no one’s paying attention. Close Slack, close Teams, stop looking at email, and give your full attention to your team-mates.
 2. **Smile, use emojis, and celebrate\!**  
-Bring the good vibes and lift each other up whenever there’s something worth celebrating.
+   Bring the good vibes and lift each other up whenever there’s something worth celebrating.
    
 ## It’s ok to be halfway done
    
