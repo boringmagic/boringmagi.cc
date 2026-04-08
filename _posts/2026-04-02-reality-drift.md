@@ -67,7 +67,7 @@ Unlike traditional rule-based systems, LLMs operate probabilistically. Give the 
 
 Reality drift doesn’t happen to everyone who uses AI. In fact, plenty of leaders have made decisions far from reality without even using AI. But that’s another problem entirely.
 
-People are particularly prone when using off-the-shelf AI to produce insights without understanding the inherent risks. There are companies developing specialist AI tools who take care over accuracy, reliability and trustworthy outputs. But most enterprise LLMs, like Copilot, are generic – they can’t guide you, and they don’t let you configure many settings.
+People are particularly prone when using off-the-shelf AI to produce insights without understanding the inherent risks. There are companies developing specialist AI tools who take care over accuracy, reliability and trustworthy outputs. But most enterprise LLMs, like Copilot, are generic – they can’t guide you, and they don’t let you configure many settings. (In fact, Copilot’s terms state it’s provided for [entertainment purposes only](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse?msockid=22896c1d4c376e6e08f47a394da06f63#:~:text=Copilot%20is%20for%20entertainment%20purposes%20only).)
 
 We’re not saying enterprise tools are off the table, particularly not for teams working in the public sector, where funding is tight. You’ll just need to be aware of a few things.
 
