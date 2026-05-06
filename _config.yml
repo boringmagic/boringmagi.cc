@@ -28,6 +28,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap  
   - jekyll-redirect-from
+  - jekyll-aeo
 
 collections:
   pages:
