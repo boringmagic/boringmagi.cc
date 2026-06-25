@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leading AI product innovation on planning.data.gov.uk"
+title: "Leading Extract, an AI product innovation on planning.data.gov.uk"
 date: 2026-03-20T10:55:37Z
 description: "Using breakthrough innovation to bring an AI-powered idea to life, with backing from the Prime Minister."
 image: /assets/images/IMG_6077.jpg
@@ -17,7 +17,7 @@ tags:
  - planning
 ---
 
-**From November 2024, we conceived and coordinated Extract – an AI product that turns decades of trapped planning documents into structured data – then led it through an alpha phase, testing and shaping it with local planning authorities. In June 2025, the Prime Minister launched Extract at London Tech Week and named it one of his AI Exemplars. Early results suggest a task that takes planning officers one to two hours could be completed in under fifteen minutes.**
+**From November 2024, we conceived and coordinated Extract – an AI product that turns decades of trapped planning documents into structured data – then led it through an alpha phase, testing and shaping it with local planning authorities. In June 2025, the Prime Minister announced Extract at London Tech Week and named it one of his AI Exemplars. Early results suggest a task that takes planning officers one to two hours could be completed in under fifteen minutes.**
 
 ## The problem
 
@@ -81,9 +81,9 @@ In February 2026, when my contract was nearing its end, we handed Extract over t
 
 ## The impact
 
-In June 2025, [the Prime Minister launched Extract at London Tech Week](https://www.gov.uk/government/news/pm-unveils-ai-breakthrough-to-slash-planning-delays-and-help-build-15-million-homes-6-june-2025){:target="_blank"}, committing to roll it out across England. It became one of the Prime Minister’s AI Exemplars – a recognition of its potential to deliver at national scale.
+In June 2025, [the Prime Minister announced Extract at London Tech Week](https://www.gov.uk/government/news/pm-unveils-ai-breakthrough-to-slash-planning-delays-and-help-build-15-million-homes-6-june-2025){:target="_blank"}, committing to roll it out across England. It became one of the Prime Minister’s AI Exemplars – a recognition of its potential to deliver at national scale.
 
-Extract is still in alpha, transitioning to beta soon, and the clearest measure of impact will come when it reaches councils at scale. But the early signals are strong:
+At the time of writing Extract is still in alpha, transitioning to beta soon, and the clearest measure of impact will come when it reaches councils at scale. But the early signals are strong:
 
 * The incubation achieved **100% extraction** of all expected text fields, **94% date accuracy**, and **90% of AI-traced polygon shapes** matching the human-drawn ground truth to a high standard
 * Testing with local planning authorities in alpha showed Extract reducing document conversion time from around 1 hour to **3–15 minutes per document** – a saving of **75,000 to 95,000 hours** of GIS officer time across 100,000 documents
@@ -94,6 +94,8 @@ Extract is still in alpha, transitioning to beta soon, and the clearest measure 
 * Related data-publishing work at Camden Council showed **60% fewer planning-related enquiries** after publishing clearer data, saving over 21 hours a month – an indication of the downstream value better planning data can unlock
 
 The roadmap we put together takes Extract through private and public beta phases, with a live service for local planning authorities planned for 2026. You can read more on [i.AI’s project page for Extract](https://ai.gov.uk/our-work/planning/#extract){:target="_blank"}.
+
+_Update: [Extract was launched](https://www.gov.uk/government/news/ai-tool-to-slash-planning-decision-times-as-government-accelerates-push-to-build-15-million-homes) to England's local planning authorities in June 2026._
 
 ## Want to do something similar?
 
