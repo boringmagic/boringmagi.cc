@@ -51,6 +51,10 @@ Mastering one’s discipline can take a lifetime, but you have to start somewher
 
 Need a fractional product manager or interim product leader for six months or more? We can step in and [lead a team →](/services/leading-a-team/)
 
+## Product consultancy for government digital services
+
+Working within GDS service standards and need senior product leadership? We can provide you with [experienced product consultancy →](/services/government-digital-services-product-consultancy/)
+
 ## Not sure what you need?
 
 Let’s talk about your challenges in a [free 30-minute chat →](/contact/)

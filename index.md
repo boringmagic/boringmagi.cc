@@ -35,7 +35,7 @@ Look at our [services](/services/) for more detail.
 
 ### Who we’ve worked with
 
-You might be from government, a local authority, the third sector, a large company or a startup. We’ve worked with organisations like yours before. 
+You might be from [government](/services/government-digital-services-product-consultancy/), a local authority, the third sector, a large company or a startup. We’ve worked with organisations like yours before. 
 
 Check our [case studies](/case-studies/) and a [portfolio](https://visitmy.website/work){:target="_blank"} of notable projects.
 
