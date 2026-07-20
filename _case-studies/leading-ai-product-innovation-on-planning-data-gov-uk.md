@@ -19,6 +19,10 @@ tags:
 
 **From November 2024, we conceived and coordinated Extract – an AI product that turns decades of trapped planning documents into structured data – then led it through an alpha phase, testing and shaping it with local planning authorities. In June 2025, the Prime Minister announced Extract at London Tech Week and named it one of his AI Exemplars. Early results suggest a task that takes planning officers one to two hours could be completed in under fifteen minutes.**
 
+> “Steve bridged the gap between complex AI innovation and practical stakeholder management, ensuring the project maintained both its technical integrity and the necessary political buy-in to succeed.”
+
+Steven Sampson-Jones, TPXimpact
+
 ## The problem
 
 England’s planning system runs on data. Modern digital planning tools – used to assess sites, manage applications, and guide development – need high-quality, structured data to function. The problem is that most of that data doesn’t exist in a usable form yet.
@@ -46,6 +50,10 @@ I worked with i.AI to design and set up an incubation: a focused, time-boxed R&D
 Together, we set specific, measurable success criteria – targets for textual accuracy, date extraction, shape accuracy, and geolocation precision – and agreed guardrails to keep the experiment responsible. The team worked from openly licensed planning documents, built a robust evaluation pipeline, and adopted an evaluation-driven development approach: every model and every line of code tested against measurable targets, iterating systematically rather than chasing a magic solution. You can read the [full brief and success criteria on GitHub](https://github.com/digital-land/digital-land/issues/360){:target="_blank"}.
 
 Co-ordinating across two government departments with different rhythms, reporting lines, and cultures requires active stewardship. We provided connective tissue: liaising between MHCLG and i.AI, steering when things got stuck, and keeping the strategy coherent across both organisations. In UK government, that kind of cross-departmental co-ordination is harder than it sounds and matters more than it looks.
+
+> “Steve excelled in high-pressure environments, skilfully influencing senior clients and navigating the demands of particularly challenging stakeholders with calm, professional diplomacy.”
+
+Steven Sampson-Jones, TPXimpact
 
 ### What the incubation found
 
@@ -99,4 +107,4 @@ _Update: [Extract was launched](https://www.gov.uk/government/news/ai-tool-to-sl
 
 ## Want to do something similar?
 
-If you’re looking for someone to identify and incubate high-value AI opportunities, coordinate cross-government teams, or lead an alpha phase for a new public service, [get in touch](https://boringmagi.cc/contact/).
+If you’re looking for someone to identify and incubate high-value AI opportunities, coordinate cross-government teams, or lead an alpha phase for a new public service, [get in touch](/contact/). You can also read more about [what people say about working with Boring Magic](/testimonials/).

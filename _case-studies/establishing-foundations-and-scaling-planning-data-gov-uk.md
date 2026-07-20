@@ -21,6 +21,10 @@ tags:
 
 **From March 2024 to March 2026, we worked with the Ministry of Housing, Communities and Local Government to scale its planning data service – restructuring the team, establishing new ways of working, and more than doubling the number of local planning authorities publishing data in the first year alone.**
 
+> “Steve’s contribution to the MHCLG work was a masterclass in seamless integration and high-stakes delivery. He stepped effortlessly into two distinct, complex workstreams, neutralised a significant capability gap, and ensured there was no loss of momentum during a critical leadership transition.”
+
+Steven Sampson-Jones, TPXimpact
+
 ## The problem
 
 The [planning data service](https://planning.data.gov.uk/){:target="_blank"} (planning.data.gov.uk) collects planning and housing data from local planning authorities across England, transforming it into a consistent, open format that anyone can view, download and analyse. Better data leads to better planning decisions, faster development, and ultimately more homes built.
@@ -51,6 +55,10 @@ With the teams settled, an [operating model](https://handbook.planning.data.gov.
 
 [Working in the open](https://handbook.planning.data.gov.uk/how-we-work/working-in-the-open/){:target="_blank"} was central to the culture built throughout this period. [Public weeknotes](https://digital-land.github.io/extract-alpha/weeknotes/){:target="_blank"}, [regular blogging](https://mhclgdigital.blog.gov.uk/category/digital-planning/){:target="_blank"}, and [community drop-ins](https://design.planning.data.gov.uk/project/planning-applications){:target="_blank"} created a visible trail of evidence that proved its worth when the service came under governance scrutiny as a Government Major Project – involving ministers, senior civil servants, and cross-government partners.
 
+> “Steve’s proactive execution didn’t just keep the projects on track, it deeply impressed the client, reinforcing Boring Magic’s reputation as a partner capable of delivering elite results under pressure.”
+
+Steven Sampson-Jones, TPXimpact
+
 ### Prioritising data standards for planning applications and decisions
 
 A significant strategic call was prioritising work on data standards for the entire planning permission process – from application submission through to decision. Neither has existed as an open, official, standardised dataset before.
@@ -73,4 +81,4 @@ The team handbook and working-in-the-open practices provided the governance evid
 
 ## Want to scale your data platform or product teams?
 
-If you’re looking to build the conditions for a growing team to do its best work, explore our services for [establishing product foundations](/services/setting-up-your-product-foundations/), [designing your OKRs and KPIs](/services/designing-your-value-architecture/), and [reviewing your vision or strategy](/services/reviewing-your-vision-or-strategy/).
+If you’re looking to build the conditions for a growing team to do its best work, explore our services for [establishing product foundations](/services/setting-up-your-product-foundations/), [designing your OKRs and KPIs](/services/designing-your-value-architecture/), and [reviewing your vision or strategy](/services/reviewing-your-vision-or-strategy/). You can also read more about [what people say about working with Boring Magic](/testimonials/).

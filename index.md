@@ -39,6 +39,24 @@ You might be from [government](/services/government-digital-services-product-con
 
 Check our [case studies](/case-studies/) and a [portfolio](https://visitmy.website/work){:target="_blank"} of notable projects.
 
+#### Testimonials
+
+Boring Magic often helps when the work is complex, sensitive or stuck. That might mean stabilising delivery, improving how a team works, turning an unclear brief into a useful product direction, or helping people move forward with more confidence.
+
+- Supported [delivery of high-profile GOV.UK Design System work](/case-studies/improving-delivery-for-govuk-design-system/), including Exit this Page, WCAG 2.2 guidance updates and GOV.UK Frontend v5.
+- Helped safeguard [critical milestones across planning.data.gov.uk](/case-studies/establishing-foundations-and-scaling-planning-data-gov-uk/) and [Extract](/case-studies/leading-ai-product-innovation-on-planning-data-gov-uk/) for MHCLG.
+- Helped turn technical AI and data briefs into product work focused on real organisational problems.
+
+> “Steve and I tackled every challenge together. He brought innovative ideas and approaches to our work, helped us improve how the team worked, and supported delivery of high-profile projects.”
+
+Kelly Lee, Lead Delivery Manager for GOV.UK Design System
+
+> “Steve’s contribution to the MHCLG work was a masterclass in seamless integration and high-stakes delivery. He neutralised a significant capability gap, maintained momentum during a critical leadership transition, and deeply impressed the client.”
+
+Steven Sampson-Jones, TPXimpact
+
+Read more about [what people say about working with Boring Magic](/testimonials/).
+
 ### Start a chat
 
 [Get in touch]({{ "/contact/" | relative_url }}) about your project and we’ll see if we can help.

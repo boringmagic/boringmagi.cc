@@ -18,6 +18,10 @@ tags:
 
 **Through late 2023 to early 2024, we worked with GOV.‌UK Design System to double their release frequency, significantly improving service delivery speed and team morale.** Facing challenges with traditional two-week sprints, we implemented a new 4-week delivery cycle that fundamentally shifted their approach to rapid iteration and adaptation.
 
+> “Steve and I tackled every challenge together. He brought innovative ideas and approaches to our work, helped us improve how the team worked, and supported delivery of high-profile projects including Exit this Page, WCAG 2.2 guidance updates and GOV.UK Frontend v5.”
+
+Kelly Lee, Lead Delivery Manager for GOV.UK Design System
+
 ## The problem
 
 GOV.‌UK Design System’s mission is to provide reusable components and patterns for government services, ensuring they are usable, accessible, and cost-effective. 
@@ -70,6 +74,10 @@ In late 2023, we co-designed the new model with team leads, presenting the princ
 
 After presenting it to the team and getting their buy-in to experiment with a new way of working, the team set off on trying out the new model. 
 
+> “Steve has probably been my favourite product manager to work with. He sees the work of every role on a team, encourages experimentation and prototyping, and brings informed, useful input while staying open to challenge.”
+
+Owen Jones, Senior Frontend Developer for GOV.UK Design System
+
 ## The impact
 
 In their first cycle, the team delivered three out of five briefs – a significant improvement on their completion rate at the time. As Kelly reported, ‘most team members enjoyed working in smaller, focused groups and having autonomy over how they deliver their work.’ 
@@ -84,4 +92,4 @@ One year on and the team has maintained momentum. Iterations have increased, the
 
 ## Want to try something new?
 
-If you’re looking to increase team happiness and effectiveness, look at our services for [reviewing your product operating or delivery model](/services/reviewing-your-product-operating-or-delivery-model/) and [catalysing delivery teams](/services/catalysing-delivery-teams/).
+If you’re looking to increase team happiness and effectiveness, look at our services for [reviewing your product operating or delivery model](/services/reviewing-your-product-operating-or-delivery-model/) and [catalysing delivery teams](/services/catalysing-delivery-teams/). You can also read more about [what people say about working with Boring Magic](/testimonials/).
