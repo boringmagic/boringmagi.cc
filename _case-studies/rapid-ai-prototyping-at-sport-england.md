@@ -67,6 +67,10 @@ None of that derailed the project. We were still able to keep moving forward.
 
 The show-and-tell rhythm meant feedback kept flowing even when staff couldn’t respond to messages. The scrappy-first approach meant we weren’t precious about discarding ideas that didn’t hold up. And being honest with Sport England teams about what we were doing, and what we weren’t, built the kind of trust that makes future work easier.
 
+The teams we worked with gave us some greaet feedback:
+
+> “If you’d have asked us to spend 4 hours in a workshop at the start of this, we’d have said we didn’t have the time. But seeing what you’ve done now, we’d find 2–3 days at least to spend with you.”
+
 That’s the model for rapid discovery and prototyping: practical progress under real conditions, not a polished case study built under ideal circumstances.
 
 ## Why this matters
