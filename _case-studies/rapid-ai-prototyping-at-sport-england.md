@@ -3,6 +3,7 @@ layout: post
 title: "Rapid AI prototyping at Sport England"
 date: 2026-07-21T08:51:53+01:00
 description: "How Boring Magic turned a vague AI brief into working prototypes at Sport England, within real policy and delivery constraints."
+image: /assets/images/active-partnerships.png
 collection: case-studies
 tags:
  - artificial intelligence
