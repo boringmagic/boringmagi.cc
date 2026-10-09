@@ -26,6 +26,20 @@
   --dark-code-literal: #f6b99a;
 }
 
+@font-face {
+  font-family: 'Helvetica Neue LT Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../../../assets/fonts/Helvetica Neue LT Pro 53 Extended.otf') format('opentype');
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Helvetica Neue LT Pro', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
 /* noto-serif-regular - vietnamese_latin-ext_latin_greek-ext_greek_cyrillic-ext_cyrillic */
 @font-face {
   font-family: 'Noto Serif';
